@@ -1,6 +1,5 @@
 # manusmanualmapinject
-Manus AI's Win 11 Manual Map Injector with Stealth Capabilities //// ur welcome <3
-
+Manus AI's Win 11 Manual Map Injector with "Stealth Capabilities" ////
 ## Component Descriptions
 
 ### 1. Injector Controller
