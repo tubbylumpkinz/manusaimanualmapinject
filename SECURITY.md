@@ -1,18 +1,3 @@
-# Security Policy
-
-## Supported Versions
-
-The following table indicates which versions of `[Your Project Name]` are currently receiving security updates:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-We aim to provide security updates for the latest minor release of each major supported version branch.
-
 ## Reporting a Vulnerability
 
 We take all security vulnerabilities seriously. Thank you for helping improve the security of `[Your Project Name]`. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
